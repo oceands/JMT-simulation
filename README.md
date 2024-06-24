@@ -4,7 +4,7 @@ Java Modelling Tools (JMT) is a free open source suite consisting of six tools f
 #Objectives
 This project involves using JMT (Java Modeling Tools) to analyze and optimize the operations of a hospital that operates 24/7. The analysis focuses on patient flow, discharge rates, and resource utilization within different triage units of the hospital.
 
-##Key Analysis and Findings
+#Key Analysis and Findings
 In-patient Admissions:
 
 Calculation: In-patients enter the hospital through the InP-Triage unit. With one server handling approximately 170,212 patients per week, it averages to a new patient every 2.5 minutes.
